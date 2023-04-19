@@ -106,13 +106,14 @@ h1.mainHeader {
 }
 
 .cardImgContainer{
-  width: 30%
+  width: 30%;
+  height: auto;
+  background-image: url(./test.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-origin: content-box;
 }
-  .imgFluidVert {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
+
 
 .refListGroup {
   width: 80%;
