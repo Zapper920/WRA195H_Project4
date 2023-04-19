@@ -2,6 +2,8 @@ body, html {
     color: white;
     font-family: 'Lato', sans-serif;
 }
+
+
 .hero-text {
   text-align: center;
   position: absolute;
@@ -108,7 +110,7 @@ h1.mainHeader {
 .cardImgContainer{
   width: 30%;
   height: auto;
-  background-image: url(./test.jpg);
+  background-image: url(./assets/test.jpg);
   background-position: center center;
   background-size: cover;
   background-origin: content-box;
