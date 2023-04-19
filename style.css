@@ -29,18 +29,19 @@ table.prosCons {
     table-layout: fixed;
     width: 100%;
     border-collapse: collapse;
+    margin-top: 20px;
   }
   .prosCons td {
-    padding: 10px 20px 10px 20px;
+    margin: 10px 20px 10px 20px;
     vertical-align: top;
   }
   .prosCons th{
-    padding: 20px 20px 0 20px;
+    margin: 20px 20px 0 20px;
     vertical-align: middle;
   }
   
-.mainHeader {
-  margin: 20pt;
+h1.mainHeader {
+  margin: 40pt 0 20pt 0;
 }
 .interviewTbl {
     width: 100%;
@@ -79,4 +80,41 @@ table.prosCons {
   margin-bottom: 2cm; 
   display:block;
   padding: 10px;
+}
+
+.cardFlexbox {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+  }
+  .cardFlexItem {
+    width: 100%;
+  }
+  .cardFlexTextBox {
+    overflow: hidden;
+    line-height: 1.6em;
+  }
+
+#more1 {height: 4.8em;}
+#more2 {height: 4.8em;}
+#more3 {height: 4.8em;}
+.readMeBtn {
+  margin: .75em .5em .5em 0;
+}
+
+.cardImgContainer{
+  width: 30%
+}
+  .imgFluidVert {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+.refListGroup {
+  width: 80%;
+  margin: 5vh auto 0 auto;
 }
