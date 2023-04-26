@@ -10,91 +10,52 @@ function update () {
     requestAnimationFrame(update);
 }
 
-function myFunction1() {
-    var dots = document.getElementById("dots1");
-    var moreText = document.getElementById("more1");
-    var btnText = document.getElementById("myBtn1");
-  
-    if (dots.style.display === "none") {
-      dots.style.display = "inline";
-      btnText.innerHTML = "Read more";
-      moreText.style.display = "none";
-    } else {
-      dots.style.display = "none";
-      btnText.innerHTML = "Read less";
-      moreText.style.display = "inline";
-    }
-  } 
-
-function myFunction2() {
-    var dots = document.getElementById("dots2");
-    var moreText = document.getElementById("more2");
-    var btnText = document.getElementById("myBtn2");
-  
-    if (dots.style.display === "none") {
-      dots.style.display = "inline";
-      btnText.innerHTML = "Read more";
-      moreText.style.display = "none";
-    } else {
-      dots.style.display = "none";
-      btnText.innerHTML = "Read less";
-      moreText.style.display = "inline";
-    }
-  } 
-
-function myFunction3() {
-    var dots = document.getElementById("dots3");
-    var moreText = document.getElementById("more3");
-    var btnText = document.getElementById("myBtn3");
-  
-    if (dots.style.display === "none") {
-      dots.style.display = "inline";
-      btnText.innerHTML = "Read more";
-      moreText.style.display = "none";
-    } else {
-      dots.style.display = "none";
-      btnText.innerHTML = "Read less";
-      moreText.style.display = "inline";
-    }
-  } 
-
 function cFTB1() {
     var moreText = document.getElementById("more1");
     var btnText = document.getElementById("myBtn1");
+    var gradient = document.getElementById("grad1");
 
     if (moreText.style.height != "auto") {
         moreText.style.height = "auto";
         btnText.innerHTML = "Read less";
+        gradient.style.visibility = "hidden"
     } else{
         moreText.style.height = "4.8em";
         btnText.innerHTML = "Read more";
+        gradient.style.visibility = "visible"
     }
 }
 
 function cFTB2() {
     var moreText = document.getElementById("more2");
     var btnText = document.getElementById("myBtn2");
+    var gradient = document.getElementById("grad2");
 
     if (moreText.style.height != "auto") {
-        moreText.style.height = "auto";
-        btnText.innerHTML = "Read less";
-    } else{
-        moreText.style.height = "4.8em";
-        btnText.innerHTML = "Read more";
-    }
+      moreText.style.height = "auto";
+      btnText.innerHTML = "Read less";
+      gradient.style.visibility = "hidden"
+  } else{
+      moreText.style.height = "4.8em";
+      btnText.innerHTML = "Read more";
+      gradient.style.visibility = "visible"
+  }
 }
 
 function cFTB3() {
     var moreText = document.getElementById("more3");
     var btnText = document.getElementById("myBtn3");
+    var gradient = document.getElementById("grad3");
 
     if (moreText.style.height != "auto") {
-        moreText.style.height = "auto";
-        btnText.innerHTML = "Read less";
-    } else{
-        moreText.style.height = "4.8em";
-        btnText.innerHTML = "Read more";
-    }
+      moreText.style.height = "auto";
+      btnText.innerHTML = "Read less";
+      gradient.style.visibility = "hidden"
+  } else{
+      moreText.style.height = "4.8em";
+      btnText.innerHTML = "Read more";
+      gradient.style.visibility = "visible"
+  }
 }
 
 update();

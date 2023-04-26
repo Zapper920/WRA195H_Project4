@@ -13,7 +13,7 @@
     
   </style>
   <body>
-    <div class='fixed-top'>
+    <div class='sticky-top'>
       <nav class='navbar navbar-expand-lg bg-body-tertiary navbar-dark bg-dark'>
         <div class='container-fluid'>
           <a class='navbar-brand' aria-current='page' href='#'>Home</a>
@@ -39,13 +39,7 @@
     </div>
     
     
-    <div class='hero-image'>
-      <img src='./assets/test.jpg'>
-      <div class='hero-text'>
-        <h1 class='text-center'><strong>Graphic Design:</strong></h1>
-        <h2 class='text-center'>An Adaptive Field as a Product of Time</h2>
-      </div>
-    </div>
+    <div class='hero-image'></div>
     <br>
     <h1 class='text-center mainHeader' id="Education">Education</h1>
 
@@ -138,7 +132,7 @@
         </h2>
         <div id='panelsStayOpen-collapseFour' class='accordion-collapse collapse'>
           <div class='accordion-body'>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente architecto assumenda facere culpa, exercitationem perspiciatis? Optio unde vel, porro quaerat adipisci voluptates nemo tenetur facere cupiditate, atque, deserunt rerum? Magni voluptatum earum ad sed, amet iste eos, adipisci sint veniam, quidem error harum dolore eum delectus! Nulla mollitia maxime iusto tempora animi velit impedit deserunt quam alias repudiandae dolore, dolores deleniti voluptas earum assumenda vel eos inventore dignissimos possimus eligendi debitis officiis quaerat odit. Totam eveniet quidem fugiat blanditiis, hic quae sapiente voluptatibus adipisci perferendis exercitationem eaque quos impedit corporis repellat repellendus, expedita voluptate facilis officiis. Eum blanditiis, ea praesentium modi adipisci, architecto officiis molestias voluptatum itaque officia sint dolor, ullam eaque maxime libero omnis dolorum quo quasi? Labore recusandae ad ut repellat debitis id incidunt asperiores voluptas quasi cum quod modi, inventore est. Consequuntur officia, quam cumque harum laudantium possimus velit accusantium ad aliquam fugiat nulla pariatur quos facilis error, libero est? Sint eaque quo nulla maiores ipsam expedita repudiandae aperiam non aut amet rerum eos doloremque, inventore eius praesentium provident in alias. Laboriosam blanditiis modi quis, porro eaque enim explicabo? Placeat aspernatur quaerat facere nihil adipisci consequatur omnis veniam tempora dolorum repudiandae repellendus quis temporibus tenetur dignissimos vitae praesentium impedit laudantium vel similique, odio delectus! Totam reiciendis id sed odit ratione, ab sint et perferendis, dicta officia eligendi fuga iusto laboriosam molestiae, minus sapiente. Ipsam amet repellat explicabo provident beatae debitis quis, numquam omnis! Excepturi minima laborum maiores consectetur dolorum, vel accusantium nam eveniet, cumque, odit libero magni!
+            Beyond receiving their undergraduate degree, students will often pursue an MFA (Master’s in Fine Arts). Generally, these typically follow a residency or independent study structure. Students generally pursue this option to expand their design abilities and marketability, as an alternative to directly entering the field.
           </div>
         </div>
       </div>
@@ -151,12 +145,13 @@
 
       <div class="card mb-3 cardFlexItem border rounded">
         <div class="row g-0">
-          <div class="col-md-4 cardImgContainer"></div>
+          <div class="col-md-4 cardImgContainer" id="cIC1" role="button" data-bs-toggle="modal" data-bs-target="#cIC1Modal"></div>
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">Employment Rates</h5>
               <div class="cardFlexTextBox" id="more1">
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</p>
+                <div class="gradient" id="grad1"></div>
+                <p class="card-text">The demand for digital designers was sparked largely by the “dot-com” bubble of the late 1990s to early 2000s. The early internet was a completely new frontier, and print designers eagerly capitalized on it. According to the U.S. Bureau of Labor Statistics, the amount of graphic designers nearly doubled between 1999 and 2007, the height of the dot-com bubble. During this period, graphic design jobs increased at a much higher rate than the rate of overall employment. However, during the period of 2009-2013, the Graphic Design industry experienced a small recession. The dot-com bubble had burst, and investors and businesses alike found the internet as a much less lucrative venture. The industry has since been in a slight recession due to the current oversaturation of the field. </p>
               </div>
               <button onclick ="cFTB1()" id="myBtn1" type="button" class="btn btn-dark readMeBtn">Read more</button>
             </div>
@@ -164,14 +159,30 @@
         </div>
       </div>
 
+      <div class="modal fade" id="cIC1Modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-xl">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h1 class="modal-title fs-5">Employment Rates</h1>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <img src="./assets/Figure_1.png" style="width: 100%">
+            </div>
+          </div>
+        </div>
+      </div>
+      
+
       <div class="card mb-3 cardFlexItem border rounded">
         <div class="row g-0">
-          <div class="col-md-4 cardImgContainer"></div>
+          <div class="col-md-4 cardImgContainer" id="cIC2" role="button" data-bs-toggle="modal" data-bs-target="#cIC2Modal"></div>
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">Salary</h5>
               <div class="cardFlexTextBox" id="more2">
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</p>
+                <div class="gradient" id="grad2"></div>
+                <p class="card-text">Graphic Design wages have continuously risen over the past two decades. From the years 2000 to 2021, the annual mean wage rose from $38,000 to $60,000. When compared with the Consumer Price Index, a common means for calculating general inflation, wages have risen fairly proportionally to the rising price of goods. From 2019 to 2021, however, there has been a somewhat dramatic increase in wages relative to the rate of inflation. This suggests that graphic design could be a more advantageous career to enter in the coming years, if this trend is to continue. That being said, a similar increase can be seen from 1999 to 2001, only for the wages to then decrease the following year, and continue to follow the rate of inflation.</p>
               </div>
               <button onclick ="cFTB2()" id="myBtn2" type="button" class="btn btn-dark readMeBtn">Read more</button>
             </div>
@@ -179,16 +190,45 @@
         </div>
       </div>
 
+      <div class="modal fade" id="cIC2Modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-xl">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h1 class="modal-title fs-5">Salary</h1>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <img src="./assets/Figure_2.png" style="width: 100%">
+            </div>
+          </div>
+        </div>
+      </div>
+
       <div class="card mb-3 cardFlexItem border rounded">
         <div class="row g-0">
-          <div class="col-md-4 cardImgContainer"></div>
+          <div class="col-md-4 cardImgContainer" id="cIC3" role="button" data-bs-toggle="modal" data-bs-target="#cIC3Modal"></div>
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">Career Paths</h5>
               <div class="cardFlexTextBox" id="more3">
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</p>
+                <div class="gradient" id="grad3"></div>
+                <p class="card-text">Currently, the field of graphic design offers a multitude of diverse career paths. Although the mean annual salary of designers in the US in 2021 was $59,970, only $1,690 over the average of all occupations, increased salaries can be found in different levels of career progression. Typically, the career path for a designer consists of junior, mid-level, and senior positions, requiring roughly &lt;2, 2-5, and &gt;5 years of experience respectively. In addition designers often move to managerial positions such as art or creative directors. In recent years, additional positions have opened as a result of the advent of digital technologies. UI/UX design and web development, for instance, are fields with a high rate of demand right now. With the cross-over and commonalities between graphic design and these fields, many designers are migrating to these positions due to their generally higher wages. </p>
               </div>
               <button onclick ="cFTB3()" id="myBtn3" type="button" class="btn btn-dark readMeBtn">Read more</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="modal fade" id="cIC3Modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-xl">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h1 class="modal-title fs-5">Career Paths</h1>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <img src="./assets/Figure_3.png" style="width: 100%">
             </div>
           </div>
         </div>

@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="6.6008205in"
+   height="4.5461149in"
+   viewBox="0 0 167.66084 115.47132"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   sodipodi:docname="careerpathmap.svg"
+   inkscape:export-filename="../../../../MSU/Homework/WRA 195H/WRA-P4/assets/Figure_3.png"
+   inkscape:export-xdpi="290.87292"
+   inkscape:export-ydpi="290.87292"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="1.2642212"
+     inkscape:cx="191.8177"
+     inkscape:cy="166.90117"
+     inkscape:window-width="2560"
+     inkscape:window-height="1392"
+     inkscape:window-x="0"
+     inkscape:window-y="48"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-24.613226,-94.940697)">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.41658;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none"
+       id="rect3027"
+       width="167.24426"
+       height="57.527367"
+       x="24.821516"
+       y="95.148987"
+       inkscape:export-filename="../../../../MSU/Homework/WRA 195H/WRA-P4/assets/Figure_3.png"
+       inkscape:export-xdpi="290.87292"
+       inkscape:export-ydpi="290.87292" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.369328;stroke-linejoin:round;stroke-miterlimit:10"
+       id="path231"
+       cx="51.924622"
+       cy="128.54097"
+       r="19.083984" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.369328;stroke-linejoin:round;stroke-miterlimit:10"
+       id="circle287"
+       cx="108.6031"
+       cy="128.54097"
+       r="19.083984" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.381;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none"
+       id="circle343"
+       cx="165.28159"
+       cy="128.54097"
+       r="19.083984" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.72379px;line-height:1.25;font-family:lato;-inkscape-font-specification:lato;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.168095"
+       x="51.704655"
+       y="126.077"
+       id="text500"><tspan
+         sodipodi:role="line"
+         id="tspan498"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:lato;-inkscape-font-specification:lato;text-align:center;text-anchor:middle;stroke-width:0.168095"
+         x="51.704655"
+         y="126.077">Junior</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:lato;-inkscape-font-specification:lato;text-align:center;text-anchor:middle;stroke-width:0.168095"
+         x="51.704655"
+         y="134.48174"
+         id="tspan502">Designer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.72379px;line-height:1.25;font-family:lato;-inkscape-font-specification:lato;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.168095"
+       x="108.38313"
+       y="126.12407"
+       id="text558"><tspan
+         sodipodi:role="line"
+         id="tspan554"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:lato;-inkscape-font-specification:lato;text-align:center;text-anchor:middle;stroke-width:0.168095"
+         x="108.38313"
+         y="126.12407">Mid-Level</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:lato;-inkscape-font-specification:lato;text-align:center;text-anchor:middle;stroke-width:0.168095"
+         x="108.38313"
+         y="134.52881"
+         id="tspan556">Designer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.72379px;line-height:1.25;font-family:lato;-inkscape-font-specification:lato;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.168095"
+       x="165.06161"
+       y="126.077"
+       id="text564"><tspan
+         sodipodi:role="line"
+         id="tspan560"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:lato;-inkscape-font-specification:lato;text-align:center;text-anchor:middle;stroke-width:0.168095"
+         x="165.06161"
+         y="126.077">Senior</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:lato;-inkscape-font-specification:lato;text-align:center;text-anchor:middle;stroke-width:0.168095"
+         x="165.06161"
+         y="134.48174"
+         id="tspan562">Designer</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.41658;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none"
+       id="rect3029"
+       width="167.24426"
+       height="57.527367"
+       x="24.821516"
+       y="152.67636" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.369328;stroke-linejoin:round;stroke-miterlimit:10"
+       id="circle2995"
+       cx="165.28159"
+       cy="175.71222"
+       r="19.083984" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.369328;stroke-linejoin:round;stroke-miterlimit:10"
+       id="circle2997"
+       cx="51.924622"
+       cy="175.71222"
+       r="19.083984" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.72379px;line-height:1.25;font-family:lato;-inkscape-font-specification:lato;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.168095"
+       x="165.06161"
+       y="173.43161"
+       id="text3003"><tspan
+         sodipodi:role="line"
+         id="tspan2999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:lato;-inkscape-font-specification:lato;text-align:center;text-anchor:middle;stroke-width:0.168095"
+         x="165.06161"
+         y="173.43161">Art/Creative</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:lato;-inkscape-font-specification:lato;text-align:center;text-anchor:middle;stroke-width:0.168095"
+         x="165.06161"
+         y="181.83635"
+         id="tspan3001">Director</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.72379px;line-height:1.25;font-family:lato;-inkscape-font-specification:lato;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.168095"
+       x="52.018547"
+       y="173.37234"
+       id="text3009"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:lato;-inkscape-font-specification:lato;text-align:center;text-anchor:middle;stroke-width:0.168095"
+         x="52.018547"
+         y="173.37234"
+         id="tspan3007">UI/UX</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:lato;-inkscape-font-specification:lato;text-align:center;text-anchor:middle;stroke-width:0.168095"
+         x="52.018547"
+         y="181.77708"
+         id="tspan3013">Designer</tspan></text>
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.369328;stroke-linejoin:round;stroke-miterlimit:10"
+       id="circle3015"
+       cx="108.6031"
+       cy="175.71222"
+       r="19.083984" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.72379px;line-height:1.25;font-family:lato;-inkscape-font-specification:lato;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.168095"
+       x="108.3207"
+       y="173.40932"
+       id="text3021"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:lato;-inkscape-font-specification:lato;text-align:center;text-anchor:middle;stroke-width:0.168095"
+         x="108.3207"
+         y="173.40932"
+         id="tspan3019">Web</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:lato;-inkscape-font-specification:lato;text-align:center;text-anchor:middle;stroke-width:0.168095"
+         x="108.3207"
+         y="181.81406"
+         id="tspan3025">Developer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.97024px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.174256"
+       x="79.200073"
+       y="103.90741"
+       id="text3033"><tspan
+         sodipodi:role="line"
+         id="tspan3031"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;stroke-width:0.174256"
+         x="79.200073"
+         y="103.90741">Typical Career Path</tspan></text>
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none"
+       d="m 137.58268,152.88464 v 57.31908"
+       id="path3110" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.97024px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.174256"
+       x="79.121651"
+       y="203.67337"
+       id="text3114"><tspan
+         sodipodi:role="line"
+         id="tspan3112"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;stroke-width:0.174256"
+         x="79.121651"
+         y="203.67337">Digital</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.97024px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.174256"
+       x="164.78471"
+       y="203.79225"
+       id="text3118"><tspan
+         sodipodi:role="line"
+         id="tspan3116"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;stroke-width:0.174256"
+         x="164.78471"
+         y="203.79225">Managerial</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.1302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.6;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 71.008606,128.54097 H 85.668349"
+       id="path4628"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.1302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.6;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 127.68709,128.54097 h 14.65975"
+       id="path4923"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.74906;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.6;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 165.28159,147.61889 v 6.43945"
+       id="path4929"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
